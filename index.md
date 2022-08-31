@@ -9,22 +9,24 @@ Menntavegi 1, 102 Reykjavik, Iceland
 
 <div id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
+| <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
+| <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
 </div>
 
 
-## Currently
+## Personal
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Born 11/21/1981 in Reykjavik, Iceland. Citizen of Iceland. Married with three daughters
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+My main research area is in the intersection of combinatorics and the theory of
+algorithms. I focus on permutation patterns and algorithms to prove and
+conjecture results about them. I have also worked in algebraic geometry, mostly
+on Schubert varieties, and in ad-hoc wireless networks, especially on the
+SINR-model.
 
 
 ## Education
