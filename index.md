@@ -4,7 +4,8 @@ title: Henning Ulfarsson's CV
 ---
 # Henning Ulfarsson
 Assistant professor, Department of Computer Science, Reykjavik University.
-Menntavegi 1, 102 Reykjavik, Iceland, Ísland
+
+Menntavegi 1, 102 Reykjavik, Iceland
 
 <div id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
