@@ -4,9 +4,10 @@ title: Henning Ulfarsson's CV
 ---
 # Henning Ulfarsson
 Assistant professor, Department of Computer Science, Reykjavik University.
+Menntavegi 1, 102 Reykjavik, Iceland, Ísland
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
