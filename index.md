@@ -3,7 +3,7 @@ layout: cv
 title: Henning Ulfarsson's CV
 ---
 # Henning Ulfarsson
-Physicist, Mathematician, Cambridge professor.
+Assistant professor, Department of Computer Science, Reykjavik University.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
