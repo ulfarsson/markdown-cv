@@ -32,10 +32,16 @@ SINR-model.
 __Reykjavik University, Reykjavik Iceland__
 
 `2016-2019`
-- x
+Director of Graduate Program, School of Computer Science
 
-`2016-2019`
-- y
+`2013-now`
+Assistant professor, School of Computer Science
+
+`2010-2013`
+Part-time assistant professor, School of Computer Science
+
+`2009-2013`
+Postdocoral researcher, School of Computer Science
 
 
 ## Education
