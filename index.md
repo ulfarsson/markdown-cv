@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Henning Ulfarsson's CV
 ---
-# Isaac Newton
+# Henning Ulfarsson
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
