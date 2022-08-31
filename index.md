@@ -30,8 +30,12 @@ SINR-model.
 ## Academic Positions
 
 __Reykjavik University, Reykjavik Iceland__
+
 `2016-2019`
 - x
+
+`2016-2019`
+- y
 
 
 ## Education
