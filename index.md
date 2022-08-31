@@ -11,7 +11,6 @@ Menntavegi 1, 102 Reykjavik, Iceland
 <a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
 | <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
-| <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
 </div>
 
 
@@ -28,37 +27,27 @@ conjecture results about them. I have also worked in algebraic geometry, mostly
 on Schubert varieties, and in ad-hoc wireless networks, especially on the
 SINR-model.
 
+## Academic Positions
+
+__Reykjavik University, Reykjavik Iceland__
+`2016-2019`
+- x
+
 
 ## Education
 
 `2004-2009`
-__Brown University}, Providence, Rhode Island, USA__
-- Ph.D. in Mathematics, June 2009
-		            Thesis:
-		            Extending Grothendieck topologies to diagram categories
-			            and Serre functors on diagram schemes
+__Brown University, Providence, Rhode Island, USA__
+- Ph.D. in Mathematics, June 2009.
+	Thesis: Extending Grothendieck topologies to diagram categories and Serre functors on diagram schemes
 - M.Sc. in Mathematics, May 2006
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2001-2004`
+__University of Iceland, Reykjavik, Iceland__
+- B.Sc in Mathematics, June 2004
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`1997-2001`
+__Commerical College of Iceland, Reykjavik, Iceland__
 
 ## Publications
 
@@ -78,6 +67,13 @@ etc. etc. etc.
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
 ## Occupation
