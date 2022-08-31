@@ -17,7 +17,7 @@ Menntavegi 1, 102 Reykjavik, Iceland
 
 ## Personal
 
-Born 11/21/1981 in Reykjavik, Iceland. Citizen of Iceland. Married with three daughters
+Born November 21, 1981 in Reykjavik, Iceland. Citizen of Iceland. Married with three daughters
 
 
 ### Research interests
@@ -31,8 +31,13 @@ SINR-model.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004-2009`
+__Brown University}, Providence, Rhode Island, USA__
+- Ph.D. in Mathematics, June 2009
+		            Thesis:
+		            Extending Grothendieck topologies to diagram categories
+			            and Serre functors on diagram schemes
+- M.Sc. in Mathematics, May 2006
 
 `June 1661 - now`
 __Trinity College, Cambridge__
