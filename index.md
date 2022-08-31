@@ -71,8 +71,8 @@ POP paper
 ### Submitted
 
 `2022`
-Combinatorial Exploration: An Algorithmic Framework for Enumeration
-M.\ Albert, C.\ Bean A.\ Claesson, J.\ Pantone and H.\ Ulfarsson.
+Combinatorial Exploration: An Algorithmic Framework for Enumeration  
+M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson.
 <div id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
 | <a href="https://permpal.com">Catalog of results</a>
