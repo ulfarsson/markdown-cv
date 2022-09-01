@@ -66,16 +66,26 @@ __Commerical College of Iceland, Reykjavik, Iceland__
 ### In preparation
 
 `2022`
-POP paper
+Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
+C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 ### Submitted
 
 `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
-M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson.
+M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
+<div id="webaddress">
+<a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
+| <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
+| <a href="https://permpal.com">Catalog of results</a>
+</div>
+
+`2022`
+Algorithmic coincidence classification of mesh patterns  
+C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson
 <div id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
-| <a href="https://permpal.com">Catalog of results</a>
+| <a href="https://permutatriangle.github.io/papers/2019-03-03-shalg.html">Web page</a>
 </div>
 
 ### Journals
