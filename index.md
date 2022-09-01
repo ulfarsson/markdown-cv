@@ -74,11 +74,11 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
 M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
-<div id="webaddress">
+<span id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
 | <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
 | <a href="https://permpal.com">Catalog of results</a>
-</div>
+</span>
 
 `2022`
 Algorithmic coincidence classification of mesh patterns  
