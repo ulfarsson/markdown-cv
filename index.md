@@ -90,8 +90,14 @@ C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+Collatz meets Fibonacci  
+M. Albert, B. Gudmundsson and H. Ulfarsson  
+MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136
+<div id="webaddress">
+<a href="http://arxiv.org/abs/1404.3054">arXiv: 1404.3054</a>
+| <a href="https://permutatriangle.github.io/papers/2019-02-20-collatz.html">Web page</a>
+</div>
 
 `1669`
 Lectiones opticæ.
