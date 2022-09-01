@@ -252,6 +252,7 @@ a:hover {
 }
 
 #webaddress {
+	float: left;
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
