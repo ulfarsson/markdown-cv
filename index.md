@@ -5,12 +5,12 @@ title: Henning Ulfarsson's CV
 # Henning Ulfarsson
 Assistant professor, Department of Computer Science, Reykjavik University.
 
-Menntavegi 1, 102 Reykjavik, Iceland  
-<span id="webaddress">
+Menntavegi 1, 102 Reykjavik, Iceland
+<div id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
 | <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
-</span>
+</div>
 
 
 ## Personal
@@ -72,20 +72,20 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 `2022`
 - Combinatorial Exploration: An Algorithmic Framework for Enumeration  
-M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson  
-<span id="webaddress">
+M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
+<div id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
 | <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
 | <a href="https://permpal.com">Catalog of results</a>
-</span>
+</div>
 
 `2022`
 - Algorithmic coincidence classification of mesh patterns  
 C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson  
-<span id="webaddress">
+<div id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
 | <a href="https://permutatriangle.github.io/papers/2019-03-03-shalg.html">Web page</a>
-</span>
+</div>
 
 ### Journals
 
