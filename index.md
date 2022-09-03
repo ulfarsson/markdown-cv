@@ -6,11 +6,11 @@ title: Henning Ulfarsson's CV
 Assistant professor, Department of Computer Science, Reykjavik University.
 
 Menntavegi 1, 102 Reykjavik, Iceland  
-<div id="webaddress">
+<span id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
 | <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
-</div>
+</span>
 
 
 ## Personal
@@ -40,7 +40,7 @@ Assistant professor, School of Computer Science
 Part-time assistant professor, School of Computer Science
 
 `2009-2013`
-Postdocoral researcher, School of Computer Science
+Postdoctoral researcher, School of Computer Science
 
 
 ## Education
@@ -132,7 +132,7 @@ Discrete Mathematics, Volume 343, Issue 6, June 2020
 `2019`
 - Occurrence graphs of patterns in permutations  
 B. Kristinsson and H. Ulfarsson  
-Involve Volume 12 (2019), No.~6, 901-918
+Involve Volume 12 (2019), No.~6, 901-918  
 <span id="webaddress">
 <a href="https://arxiv.org/abs/1607.03018">arXiv: 1607.03018</a>
 | <a href="https://permutatriangle.github.io/papers/2019-01-10-occgraphs.html">Web page</a>
