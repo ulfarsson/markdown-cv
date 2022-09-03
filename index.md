@@ -71,7 +71,7 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 ### Submitted
 
-`2022`
+- `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
 M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson  
 <div id="webaddress">
@@ -80,7 +80,7 @@ M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
 | <a href="https://permpal.com">Catalog of results</a>
 </div>
 
-`2022`
+- `2022`
 Algorithmic coincidence classification of mesh patterns  
 C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson
 <div id="webaddress">
@@ -91,7 +91,7 @@ C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson
 ### Journals
 
 `2022`
-Collatz meets Fibonacci  
+- Collatz meets Fibonacci  
 M. Albert, B. Gudmundsson and H. Ulfarsson  
 MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136
 <div id="webaddress">
@@ -101,7 +101,7 @@ MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136
 </div>
 
 `2021`
-Enumeration of Permutation Classes and Weighted Labelled Independent Sets  
+- Enumeration of Permutation Classes and Weighted Labelled Independent Sets  
 C. Bean, É. Nadeau and H. Ulfarsson  
 Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation Patterns 2019) 2021
 <div id="webaddress">
@@ -111,7 +111,7 @@ Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation
 </div>
 
 `2020`
-Pattern avoiding permutations and independent sets in graphs  
+- Pattern avoiding permutations and independent sets in graphs  
 C. Bean, M. Tannock and H. Ulfarsson  
 Journal of Combinatorics, Volume 11 (2020), Number 4
 <div id="webaddress">
