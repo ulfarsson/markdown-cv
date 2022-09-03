@@ -65,7 +65,7 @@ __Commerical College of Iceland, Reykjavik, Iceland__
 ### In preparation
 
 `2022`
-Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
+- Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
 C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 ### Submitted
