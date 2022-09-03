@@ -71,7 +71,7 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 ### Submitted
 
 `2022`
-- Combinatorial Exploration: An Algorithmic Framework for Enumeration  
+Combinatorial Exploration: An Algorithmic Framework for Enumeration  
 M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
 <div id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
@@ -80,7 +80,7 @@ M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson
 </div>
 
 `2022`
-- Algorithmic coincidence classification of mesh patterns  
+Algorithmic coincidence classification of mesh patterns  
 C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson  
 <div id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
