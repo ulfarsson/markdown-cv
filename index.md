@@ -65,7 +65,7 @@ __Commerical College of Iceland, Reykjavik, Iceland__
 ### In preparation
 
 `2022`
-- Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
+Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
 C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 ### Submitted
@@ -73,6 +73,7 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
 M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson  
+[https://arxiv.org/abs/2202.07715](arXiv: 2202.07715)
 <p id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
 | <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
@@ -90,7 +91,7 @@ C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson
 ### Journals
 
 `2022`
-- Collatz meets Fibonacci  
+Collatz meets Fibonacci  
 M. Albert, B. Gudmundsson and H. Ulfarsson  
 MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136  
 <span id="webaddress">
@@ -100,7 +101,7 @@ MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136
 </span>
 
 `2021`
-- Enumeration of Permutation Classes and Weighted Labelled Independent Sets  
+Enumeration of Permutation Classes and Weighted Labelled Independent Sets  
 C. Bean, É. Nadeau and H. Ulfarsson  
 Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation Patterns 2019) 2021  
 <span id="webaddress">
@@ -110,7 +111,7 @@ Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation
 </span>
 
 `2020`
-- Pattern avoiding permutations and independent sets in graphs  
+Pattern avoiding permutations and independent sets in graphs  
 C. Bean, M. Tannock and H. Ulfarsson  
 Journal of Combinatorics, Volume 11 (2020), Number 4  
 <span id="webaddress">
@@ -120,7 +121,7 @@ Journal of Combinatorics, Volume 11 (2020), Number 4
 </span>
 
 `2020`
-- The poset of mesh patterns  
+The poset of mesh patterns  
 J. Smith and H. Ulfarsson  
 Discrete Mathematics, Volume 343, Issue 6, June 2020  
 <span id="webaddress">
@@ -130,7 +131,7 @@ Discrete Mathematics, Volume 343, Issue 6, June 2020
 </span>
 
 `2019`
-- Occurrence graphs of patterns in permutations  
+Occurrence graphs of patterns in permutations  
 B. Kristinsson and H. Ulfarsson  
 Involve Volume 12 (2019), No.~6, 901-918  
 <span id="webaddress">
