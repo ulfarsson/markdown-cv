@@ -6,11 +6,11 @@ title: Henning Ulfarsson's CV
 Assistant professor, Department of Computer Science, Reykjavik University.
 
 Menntavegi 1, 102 Reykjavik, Iceland
-<div id="webaddress">
+<span id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
 | <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
-</div>
+</span>
 
 
 ## Personal
@@ -73,20 +73,19 @@ C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
 M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson  
-[arXiv: 2202.07715](https://arxiv.org/abs/2202.07715) | [Web page](https://permutatriangle.github.io/papers/2019-02-27-combex.html) | [Catalog of results](https://permpal.com)
-<p id="webaddress">
+<span id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
 | <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
 | <a href="https://permpal.com">Catalog of results</a>
-</p>
+</span>
 
 `2022`
 Algorithmic coincidence classification of mesh patterns  
 C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson  
-<div id="webaddress">
+<span id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
 | <a href="https://permutatriangle.github.io/papers/2019-03-03-shalg.html">Web page</a>
-</div>
+</span>
 
 ### Journals
 
