@@ -119,6 +119,26 @@ Journal of Combinatorics, Volume 11 (2020), Number 4
 | <a href="https://dx.doi.org/10.4310/JOC.2020.v11.n4.a7">Published</a>
 </span>
 
+`2020`
+- The poset of mesh patterns  
+J. Smith and H. Ulfarsson  
+Discrete Mathematics, Volume 343, Issue 6, June 2020  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1802.08672">arXiv: 1802.08672</a>
+| <a href="https://permutatriangle.github.io/papers/2019-02-21-meshposet.html">Web page</a>
+| <a href="https://www.sciencedirect.com/science/article/pii/S0012365X2030039X">Published</a>
+</span>
+
+`2019`
+- Occurrence graphs of patterns in permutations  
+B. Kristinsson and H. Ulfarsson  
+Involve Volume 12 (2019), No.~6, 901-918
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1607.03018">arXiv: 1607.03018</a>
+| <a href="https://permutatriangle.github.io/papers/2019-01-10-occgraphs.html">Web page</a>
+| <a href="https://msp.org/involve/2019/12-6/p01.xhtml">Published</a>
+</span>
+
 ### Patents
 
 `2012`
