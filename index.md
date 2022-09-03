@@ -100,7 +100,7 @@ MAA Mathematics Magazine, Volume 95, 2022 - Issue 2, p. 130-136
 | <a href="https://www.tandfonline.com/doi/full/10.1080/0025570X.2022.2023307">Published</a>
 </div>
 
-`2022`
+`2021`
 Enumeration of Permutation Classes and Weighted Labelled Independent Sets  
 C. Bean, É. Nadeau and H. Ulfarsson  
 Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation Patterns 2019) 2021
@@ -108,6 +108,16 @@ Discrete Mathematics & Theoretical Computer Science, vol. 22 no. 2, (Permutation
 <a href="https://arxiv.org/abs/1912.07503">arXiv: 1912.07503</a>
 | <a href="https://permutatriangle.github.io/papers/2019-07-27-indepsets.html">Web page</a>
 | <a href="https://dmtcs.episciences.org/7295">Published</a>
+</div>
+
+`2020`
+Pattern avoiding permutations and independent sets in graphs  
+C. Bean, M. Tannock and H. Ulfarsson  
+Journal of Combinatorics, Volume 11 (2020), Number 4
+<div id="webaddress">
+<a href="http://arxiv.org/abs/1512.08155">arXiv: 1512.08155</a>
+| <a href="https://permutatriangle.github.io/papers/2019-02-01-pattgons.html">Web page</a>
+| <a href="https://dx.doi.org/10.4310/JOC.2020.v11.n4.a7">Published</a>
 </div>
 
 ### Patents
