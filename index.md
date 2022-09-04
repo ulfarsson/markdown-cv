@@ -3,9 +3,10 @@ layout: cv
 title: Henning Ulfarsson's CV
 ---
 # Henning Ulfarsson
-Assistant professor, Department of Computer Science, Reykjavik University.
 
-Menntavegi 1, 102 Reykjavik, Iceland
+Assistant professor, Department of Computer Science, Reykjavik University
+
+Menntavegi 1, 102 Reykjavik, Iceland  
 <span id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
 | <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
@@ -137,6 +138,36 @@ Involve Volume 12 (2019), No.~6, 901-918
 <a href="https://arxiv.org/abs/1607.03018">arXiv: 1607.03018</a>
 | <a href="https://permutatriangle.github.io/papers/2019-01-10-occgraphs.html">Web page</a>
 | <a href="https://msp.org/involve/2019/12-6/p01.xhtml">Published</a>
+</span>
+
+`2019`
+Automatic discovery of structural rules of permutation classes  
+C. Bean, B. Gudmundsson and H. Ulfarsson  
+Mathematics of Computation, Volume 88, Number 318, July 2019, Pages 1967-1990  
+<span id="webaddress">
+<a href="https://arxiv.org/pdf/1705.04109">arXiv: 1705.04109</a>
+| <a href="https://permutatriangle.github.io/papers/2018-12-11-struct.html">Web page</a>
+| <a href="https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2018-03386-5/">Published</a>
+</span>
+
+`2017`
+Enumerations of Permutations Simultaneously Avoiding a Vincular and a Covincular Pattern of Length 3  
+C. Bean, A. Claesson and H. Ulfarsson  
+Journal of Integer Sequences Volume 20 (2017)  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1512.03226">arXiv: 1512.03226</a>
+| <a href="https://permutatriangle.github.io/papers/2017-02-14-covinc.html">Web page</a>
+| <a href="https://cs.uwaterloo.ca/journals/JIS/VOL20/Bean/bean2.html">Published</a>
+</span>
+
+`2016`
+Equivalence classes of mesh patterns with a dominating pattern  
+M. Tannock and H. Ulfarsson  
+Discrete Mathematics \& Theoretical Computer Science, Vol. 19 no. 2, Permutation Patterns 2016  
+<span id="webaddress">
+<a href="https://arxiv.org/pdf/1704.07104">arXiv: 1704.07104</a>
+| <a href="https://permutatriangle.github.io/papers/2018-2-9-dom.html">Web page</a>
+| <a href="https://dmtcs.episciences.org/4265">Published</a>
 </span>
 
 ### Patents
