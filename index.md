@@ -133,7 +133,7 @@ Discrete Mathematics, Volume 343, Issue 6, June 2020
 `2019`
 Occurrence graphs of patterns in permutations  
 B. Kristinsson and H. Ulfarsson  
-Involve Volume 12 (2019), No.~6, 901-918  
+Involve Volume 12 (2019), No. 6, 901-918  
 <span id="webaddress">
 <a href="https://arxiv.org/abs/1607.03018">arXiv: 1607.03018</a>
 | <a href="https://permutatriangle.github.io/papers/2019-01-10-occgraphs.html">Web page</a>
@@ -168,6 +168,16 @@ Discrete Mathematics \& Theoretical Computer Science, Vol. 19 no. 2, Permutation
 <a href="https://arxiv.org/pdf/1704.07104">arXiv: 1704.07104</a>
 | <a href="https://permutatriangle.github.io/papers/2018-2-9-dom.html">Web page</a>
 | <a href="https://dmtcs.episciences.org/4265">Published</a>
+</span>
+
+`2015`
+Coincidence among families of mesh patterns  
+A. Claesson, B. Tenner and H. Ulfarsson  
+The Australasian Journal of Combinatorics 2015, Volume 63 Part 1 (2015)  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1412.0703">arXiv: 1412.0703</a>
+| <a href="https://permutatriangle.github.io/papers/2014-12-04-sshlemma.html">Web page</a>
+| <a href="https://ajc.maths.uq.edu.au/?page=get_volumes&volume=63">Published</a>
 </span>
 
 ### Patents
