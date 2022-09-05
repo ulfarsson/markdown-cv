@@ -180,6 +180,36 @@ The Australasian Journal of Combinatorics 2015, Volume 63 Part 1 (2015)
 | <a href="https://ajc.maths.uq.edu.au/?page=get_volumes&volume=63">Published</a>
 </span>
 
+`2015`
+Wilf-classification of mesh patterns of short length  
+I. Hilmarsson, I. Jonsdottir, S. Sigurdardottir, L. Vidarsdottir and H. Ulfarsson and H. Ulfarsson  
+Electronic Journal of Combinatorics, Volume 22 (2015)  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1409.3165">arXiv: 1409.3165</a>
+| <a href="https://permutatriangle.github.io/papers/2014-09-10-shlemma.html">Web page</a>
+| <a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i4p13/">Published</a>
+</span>
+
+`2013`
+Which Schubert varieties are local complete intersections?  
+H. Ulfarsson and A. Woo  
+The Proceedings of the London Mathematical Society, Volume 107 (2013) Issue No.5, 1004-1052  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1111.6146">arXiv: 1111.6146</a>
+| <a href="https://permutatriangle.github.io/papers/2013-03-14-lci.html">Web page</a>
+| <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms/pdt004">Published</a>
+</span>
+
+`2013`
+Restricted non-separable planar maps and some pattern avoiding permutations  
+S. Kitaev, P. Salimov, C. Severs and H. Ulfarsson  
+Discrete Applied Mathematics 161 (2013), pp. 2514-2526  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1202.1790">arXiv: 1202.1790</a>
+| <a href="https://permutatriangle.github.io/papers/2013-11-21-maps.html">Web page</a>
+| <a href="https://www.sciencedirect.com/science/article/pii/S0166218X13000280">Published</a>
+</span>
+
 ### Patents
 
 `2012`
