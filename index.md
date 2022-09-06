@@ -193,7 +193,7 @@ Electronic Journal of Combinatorics, Volume 22 (2015)
 `2013`
 Which Schubert varieties are local complete intersections?  
 H. Ulfarsson and A. Woo  
-The Proceedings of the London Mathematical Society, Volume 107 (2013) Issue No.5, 1004-1052  
+The Proceedings of the London Mathematical Society, Volume 107 (2013) Issue No. 5, 1004-1052  
 <span id="webaddress">
 <a href="http://arxiv.org/abs/1111.6146">arXiv: 1111.6146</a>
 | <a href="https://permutatriangle.github.io/papers/2013-03-14-lci.html">Web page</a>
@@ -208,6 +208,56 @@ Discrete Applied Mathematics 161 (2013), pp. 2514-2526
 <a href="http://arxiv.org/abs/1202.1790">arXiv: 1202.1790</a>
 | <a href="https://permutatriangle.github.io/papers/2013-11-21-maps.html">Web page</a>
 | <a href="https://www.sciencedirect.com/science/article/pii/S0166218X13000280">Published</a>
+</span>
+
+`2012`
+Describing West-3-stack-sortable permutations with permutation patterns  
+H. Ulfarsson  
+Séminaire Lotharingien de Combinatoire, Volume 67 (2012), Article B67d  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1110.1219">arXiv: 1110.1219</a>
+| <a href="https://permutatriangle.github.io/papers/2011-12-17-w3s.html">Web page</a>
+| <a href="http://www.mat.univie.ac.at/~slc/wpapers/s67ulfarss.pdf">Published</a>
+</span>
+
+`2012`
+Refined inversion statistics on permutations  
+J. Sack and H. Ulfarsson  
+Electronic Journal of Combinatorics, Volume 19 (2012)  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1106.1995">arXiv: 1106.1995</a>
+| <a href="https://permutatriangle.github.io/papers/2012-01-01-refinvs.html">Web page</a>
+| <a href="http://www.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p29">Published</a>
+</span>
+
+`2011`
+A unification of permutation patterns related to Schubert varieties  
+H. Ulfarsson  
+Pure Mathematics and Applications Volume 22 (2011) Issue No. 2, 273-296)  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1002.4361">arXiv: 1002.4361</a>
+| <a href="https://permutatriangle.github.io/papers/2010-12-12-unific.html">Web page</a>
+| <a href="http://puma.dimai.unifi.it/22_2/ulfarsson.pdf">Published</a>
+</span>
+
+`2011`
+Word-representability of line graphs  
+S. Kitaev, P. Salimov, C. Severs and H. Ulfarsson  
+Open Journal of Discrete Mathematics, Volume 1, Number 2 (2011), 96-101  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1102.3980">arXiv: 1102.3980</a>
+| <a href="https://permutatriangle.github.io/papers/2011-06-17-wordgraphs.html">Web page</a>
+| <a href="http://www.scirp.org/journal/PaperInformation.aspx?paperID=5808">Published</a>
+</span>
+
+`2010`
+Very twisted stable maps  
+Q. Chen, S. Marcus and H. Ulfarsson  
+Communications in Analysis and Geometry, Volume 18, Number 4.  (2010), 831-855  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/0811.0035">arXiv: 0811.0035</a>
+| <a href="https://permutatriangle.github.io/papers/2008-11-22-twisted.html">Web page</a>
+| <a href="http://www.intlpress.com/CAG/2010/18-4/CAG-18-4-A7-chen.pdf">Published</a>
 </span>
 
 ### Patents
