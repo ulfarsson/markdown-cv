@@ -27,7 +27,7 @@ conjecture results about them. I have also worked in algebraic geometry, mostly
 on Schubert varieties, and in ad-hoc wireless networks, especially on the
 SINR-model.
 
-## Academic Positions
+## Academic positions
 
 __Reykjavik University, Reykjavik Iceland__
 
@@ -260,34 +260,66 @@ Communications in Analysis and Geometry, Volume 18, Number 4.  (2010), 831-855
 | <a href="http://www.intlpress.com/CAG/2010/18-4/CAG-18-4-A7-chen.pdf">Published</a>
 </span>
 
-### Patents
+### Conference proceedings
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Sorting and preimages of pattern classes  
+A. Claesson and H. Ulfarsson  
+The 24th International Conference on Formal Power Series & Algebraic Combinatorics, Nagoya, Japan, 2012. Discrete Math. Theor. Comput. Sci. Proc. AR (2012), 595--606  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1203.2437">arXiv: 1203.2437</a>
+| <a href="https://permutatriangle.github.io/papers/2015-12-17-sortpreim.html">Web page</a>
+| <a href="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/article/view/dmAR0153">Published</a>
+</span>
+
+`2012`
+Which Schubert varieties are local complete intersections? Extended abstract  
+H. Ulfarsson and A. Woo  
+The 24th International Conference on Formal Power Series & Algebraic Combinatorics, Nagoya, Japan, 2012. Discrete Math. Theor. Comput. Sci. Proc. AR (2012), 753--764  
+<span id="webaddress">
+<a href="https://ulfarsson.github.io/papers/lci/lci_fpsac2012_poster.pdf">Poster</a>
+| <a href="https://permutatriangle.github.io/papers/2013-03-14-lci.html">Web page</a>
+| <a href="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/article/viewArticle/dmAR0166">Published</a>
+</span>
 
 ## Awards
 
+`2018`
+Principal Investigator on a Infrastructure grant from the Icelandic Research Fund
+
+`2014`
+Principal Investigator on a 3 year Project grant from the Icelandic Research Fund
+
 `2012`
-President, *Royal Society*, London, UK
+Scandinavia-Japan Sasakawa Foundation Grant to travel to Japan to attend FPSAC
 
-Associate, *French Academy of Science*, Paris, France
+`2011`
+Co-proposer on a 3 year grant of excellence from the Icelandic Research Fund
+
+`2011`
+Erasmus grant for visiting University of Strathclyde, Glasgow, UK, fall semester
+
+`2008`
+George Irving Hopkins Fellowship, academic year 2008-2009
+
+`2001`
+Valedictorian when graduating from the Commercial College of Iceland
+
+`2001`
+Ranked highest of the Icelandic team at the Physics Olympiad
 
 
-## Occupation
+## Professional and Industry Experience
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2006`
+__Landsbanki Íslands__, (Bank in Iceland)
+- Specialist in pricing of complex derivatives
+- Programming in MatLab
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2022 -->
 
 
