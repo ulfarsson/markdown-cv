@@ -9,7 +9,7 @@ Assistant professor, Department of Computer Science, Reykjavik University
 Menntavegi 1, 102 Reykjavik, Iceland  
 <span id="webaddress">
 <a href="henningu@ru.is">henningu@ru.is</a>
-| <a href="staff.ru.is/henningu">staff.ru.is/henningu</a>
+| <a href="https://permutatriangle.github.io">https://permutatriangle.github.io</a>
 | <a href="https://scholar.google.is/citations?user=Sl6fQHcAAAAJ">Google Scholar</a>
 </span>
 
@@ -24,7 +24,7 @@ Born November 21, 1981 in Reykjavik, Iceland. Citizen of Iceland. Married with t
 My main research area is in the intersection of combinatorics and the theory of
 algorithms. I focus on permutation patterns and algorithms to prove and
 conjecture results about them. I have also worked in algebraic geometry, mostly
-on Schubert varieties, and in ad-hoc wireless networks, especially on the
+on Schubert varieties, and dabbled in ad-hoc wireless networks, especially on the
 SINR-model.
 
 ## Academic positions
@@ -66,29 +66,42 @@ __Commerical College of Iceland, Reykjavik, Iceland__
 ### In preparation
 
 `2022`
+Multivariate Combinatorial Exploration  
+C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
+
+`2022`
 Permutations avoiding bipartite partially ordered patterns have a regular insertion encoding  
 C. Bean, É. Nadeau, J. Pantone and H. Ulfarsson
 
 ### Submitted
 
+`2023`
+Turning cycle restrictions into mesh patterns via Foata's fundamental transformation  
+A. Claesson and H. Ulfarsson  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/2303.17931">arXiv: 2303.17931</a>
+| <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
+</span>
+
 `2022`
 Combinatorial Exploration: An Algorithmic Framework for Enumeration  
-M. Albert, C. Bean A. Claesson, J. Pantone and H. Ulfarsson  
+M. Albert, C. Bean, A. Claesson, J. Pantone, É. Nadeau and H. Ulfarsson  
 <span id="webaddress">
 <a href="https://arxiv.org/abs/2202.07715">arXiv: 2202.07715</a>
 | <a href="https://permutatriangle.github.io/papers/2019-02-27-combex.html">Web page</a>
 | <a href="https://permpal.com">Catalog of results</a>
 </span>
 
+### Journals
+
 `2022`
 Algorithmic coincidence classification of mesh patterns  
 C. Bean, B. Gudmundsson, T. Magnusson and H. Ulfarsson  
+To appear in Information and Computation, 2023
 <span id="webaddress">
 <a href="https://arxiv.org/abs/1910.08127">arXiv: 1910.08127</a>
 | <a href="https://permutatriangle.github.io/papers/2019-03-03-shalg.html">Web page</a>
 </span>
-
-### Journals
 
 `2022`
 Collatz meets Fibonacci  
