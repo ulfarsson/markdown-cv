@@ -295,6 +295,45 @@ The 24th International Conference on Formal Power Series & Algebraic Combinatori
 | <a href="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/article/viewArticle/dmAR0166">Published</a>
 </span>
 
+`2011`
+On the representability of line graphs  
+S. Kitaev, P. Salimov, C. Severs and H. Ulfarsson  
+The 15th Conference on Developments in Language Theory, Milan, Italy, 2011. G. Mauri and A. Leporati (Eds.): DLT 2011, LNCS 6795, pp. 478–479. Springer, Heidelberg (2011)  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1102.3980">arXiv: 1102.3980</a>
+</span>
+
+`2010`
+A unification of permutation patterns related to Schubert varieties. Extended abstract  
+H. Ulfarsson  
+The 22nd International Conference on Formal Power Series & Algebraic Combinatorics, San Francisco, 2010. Discrete Math. Theor. Comput. Sci. Proc. AN (2010) 1057–1068  
+<span id="webaddress">
+<a href="http://arxiv.org/abs/1002.4361v2">arXiv: 1002.4361v2</a>
+</span>
+
+### Preprints
+
+`2014`
+Measurement Based Interference Models for Wireless Scheduling Algorithms  
+E. Asgeirsson, J. Foley, H. Gudmundsdottir, M. Halldorsson, G. Järvelä, H. Ulfarsson and Y. Vigfusson  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1401.1723">arXiv: 1401.1723</a>
+</span>
+
+`2013`
+Algorithms for discovering and proving theorems about permutation patterns  
+H. Magnusson and H. Ulfarsson  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1211.7110">arXiv: 1211.7110</a>
+</span>
+
+`2010`
+Pattern avoiding equivalence classes  
+H. Ulfarsson  
+<span id="webaddress">
+<a href="https://arxiv.org/abs/1005.5419">arXiv: 1005.5419</a>
+</span>
+
 ## Awards
 
 `2018`
